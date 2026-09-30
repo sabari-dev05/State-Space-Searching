@@ -37,3 +37,5 @@ Make sure you have Python 3.x installed along with the following libraries:
 ├── dfs_traversal.jpeg        # DFS traversal path acquired programmaticaly
 └── README.md         # Documentation file
 ```
+
+[Take me back <<](../)
