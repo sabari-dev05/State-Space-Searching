@@ -38,4 +38,4 @@ Make sure you have Python 3.x installed along with the following libraries:
 └── README.md         # Documentation file
 ```
 
-[Take me back <<](../)
+[Take me back <<](/)
