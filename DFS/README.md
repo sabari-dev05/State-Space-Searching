@@ -38,4 +38,4 @@ Make sure you have Python 3.x installed along with the following libraries:
 └── README.md         # Documentation file
 ```
 
-[Take me back <<]([/](https://github.com/sabari-dev05/State-Space-Searching/blob/main/README.md))
+[Take me back <<](../README.md)
